@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Chocolatte;
+    src: url('Lemonade\ Regular\ Demo.ttf') format('truetype');
+}
+body{
+    background: #121212!important;
+}
+.parrafo {
+    font-size: 16px !important;
+    font-weight: normal !important;
+}
+
+card-footer p h1 {
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+}
